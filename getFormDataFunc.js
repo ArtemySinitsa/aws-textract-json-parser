@@ -50,7 +50,7 @@ module.exports = data => {
         // For each id in the child relationships go get the words
         keyRelationships.forEach(child => {
           const { Ids } = child[0];
-          const value = child[1] || [];
+          const value = child[1] || [{Ids: []}];
           const words = utils.getWords(value);
           // Using reduce to turn the list of words into one line
           const completedWord = utils.buildWords(words);
