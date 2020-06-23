@@ -1,5 +1,5 @@
 # AWS Textract Json Parser
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/Bowery-RES/appraisal-platform/releases/)
 
 This library parses the json response from AWS Textract into a more usable format.
 
