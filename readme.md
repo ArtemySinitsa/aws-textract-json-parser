@@ -1,5 +1,5 @@
 # AWS Textract Json Parser
-
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]() 
 This library parses the json response from AWS Textract into a more usable format.
 
 > Selection elements now included.
