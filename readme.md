@@ -1,5 +1,6 @@
 # AWS Textract Json Parser
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]() 
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 This library parses the json response from AWS Textract into a more usable format.
 
 > Selection elements now included.
